@@ -1,0 +1,32 @@
+[
+    {
+      "name": "StopWatch",
+      "desc": "A stopwatch and clock app allows users to track elapsed time with precision and view the current time in real-time.",
+      "image": "stopwatch",
+      "category": "website",
+      "links": {
+        "view": "https://www.linkedin.com/posts/deva-prasath-r-794bb2255_prodigyinfotech-internship-activity-7230910203771203587-DGTw?utm_source=share&utm_medium=member_desktop",
+        "code": "https://github.com/DevaPrasath07/PRODIGY_WD_02"
+      }
+    },
+    {
+      "name": "Weather Webapplication",
+      "desc": "A weather web app displays real-time weather updates and forecasts, helping users plan their day with accurate information.",
+      "image": "weather",
+      "category": "website",
+      "links": {
+        "view": "https://www.linkedin.com/posts/deva-prasath-r-794bb2255_prodigyinfotech-internship-activity-7232403927713861632-14FR?utm_source=share&utm_medium=member_desktop",
+        "code": "https://github.com/DevaPrasath07/PRODIGY_WD_05"
+      }
+    },
+    {
+      "name": "Landing Page",
+      "desc": "An Editing landing page highlights key features, editing, and achievements, offering a welcoming and informative entry point for learners.",
+      "image": "portfolio1",
+      "category": "website",
+      "links": {
+        "view": "https://www.linkedin.com/posts/deva-prasath-r-794bb2255_prodigyinfotech-internship-activity-7230782374605676544-DYg0?utm_source=share&utm_medium=member_desktop",
+        "code": "https://github.com/DevaPrasath07/PRODIGY_WD_01"
+      }
+    }
+]
